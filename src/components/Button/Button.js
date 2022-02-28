@@ -1,4 +1,8 @@
 import React from 'react'
+import './button.css'
+
 export const Button = () => {
-  return <h1>Button</h1>
+  return (
+    <button>Clain</button>
+    )
 }
